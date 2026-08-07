@@ -1,0 +1,10 @@
+name: rank
+description: Ordering rows in SQL so that moving one item writes exactly one row.
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: ^3.0.0
+
+dev_dependencies:
+  test: ^1.24.0

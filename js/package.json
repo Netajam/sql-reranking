@@ -1,0 +1,12 @@
+{
+  "name": "@rank/stern-brocot",
+  "version": "1.0.0",
+  "description": "Ordering rows in SQL so that moving one item writes exactly one row.",
+  "type": "module",
+  "main": "rank.js",
+  "exports": { ".": "./rank.js" },
+  "files": ["rank.js"],
+  "scripts": { "test": "node --test" },
+  "license": "MIT",
+  "private": true
+}
